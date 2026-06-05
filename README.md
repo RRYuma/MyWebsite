@@ -1,5 +1,8 @@
 # My Personal Website
-### Hello and welcome to whoever is reading this! This is my personal website, which will also serve as my portfolio!
+### A website that contains my Bio, Projects, and Contact information. Used the tutorial.
+#### Preview:
+![Website Preview](images/Website Preview.JPG)
+
 **This contains:**
 - My Name
 - My school, grade
