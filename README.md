@@ -1,7 +1,7 @@
 # My Personal Website
 ### A website that contains my Bio, Projects, and Contact information. Used the tutorial.
 #### Preview:
-![Website Preview](images/Website Preview.JPG)
+![Website Preview](images/website-preview.png)
 
 **This contains:**
 - My Name
